@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">淘牛牛</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stock_empty">Your stock is empty</string>
+    <string name="hint_stockcode">填写股票代码(支持沪深A股)</string>
+
+    <string name="permission_alert">"6.0系统上需要开启此权限才能正常显示悬浮窗！"</string>
+    <string name="permission_result">"要么开权限，要么就卸载！"</string>
+    <string name="string_setting_fix">请先开启悬浮窗再进行设置</string>
+</resources>
